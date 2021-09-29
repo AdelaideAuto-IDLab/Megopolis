@@ -14,7 +14,7 @@ Cite using:
   ```
   @article{chesser2021,
     title={Memory Coalesced Metropolis Resampling: The Megopolis Resampler},
-    author={Chesser, Joshua and Nguyen, Hoa Van and Ranasinghe, Damith C.},
+    author={Chesser, Joshua A. and Nguyen, Hoa Van and Ranasinghe, Damith C.},
     journal={Digital Signal Processing},
     year={2021}
   }
