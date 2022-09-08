@@ -1,0 +1,24 @@
+{
+    "resample_methods": [
+        {
+            "type": "Megopolis",
+            "mode": "Constant",
+            "iters": 5
+        }
+    ],
+    "weight_params": [
+        { 
+            "method": "RelativeVar",
+            "y": 1.0
+        }
+    ],
+    "particle_values": [
+        [100000, 100000]
+    ],
+    "iters": 1,
+    "weight_sequences": 1,
+    "epsilon": 0.01,
+    "output_prefix": "example",
+    "output_suffix": "resample",
+    "seed": 1234   
+}

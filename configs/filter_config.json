@@ -1,0 +1,19 @@
+{
+    "resample_methods": [
+        {
+            "type": "Megopolis",
+            "mode": "Constant",
+            "iters": 5
+        }
+    ],
+    "particle_values": [100000],
+    "measure_noises": [1.0],
+    "trajectories": 1,
+    "time_steps": 100,
+    "runs": 1,
+    "epsilon": 1.0,
+    "gen_noise": 2.0,
+    "process_noise": 3.16,
+    "output_prefix": "example",
+    "output_suffix": "filter"
+}
